@@ -1,10 +1,10 @@
 import pytest
 import requests
 
-URL = "https://api.pokemonbattle.ru/v2"
+URL = "DOMEIN"
 HEADER = {
     "Content-type" : "application/json",
-    "trainer_token" : "53b385269210588bdb7dd0976fb0bbfc"
+    "trainer_token" : "TRAINER_TOKEN"
     }
 
 trainer_id = "20408"
